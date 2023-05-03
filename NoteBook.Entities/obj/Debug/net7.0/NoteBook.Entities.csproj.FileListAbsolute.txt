@@ -1,0 +1,12 @@
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.csproj.AssemblyReference.cache
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.AssemblyInfoInputs.cache
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.AssemblyInfo.cs
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.csproj.CoreCompileInputs.cache
+C:\Dot.NET\EP1\NoteBook.Entities\bin\Debug\net7.0\NoteBook.Entities.deps.json
+C:\Dot.NET\EP1\NoteBook.Entities\bin\Debug\net7.0\NoteBook.Entities.dll
+C:\Dot.NET\EP1\NoteBook.Entities\bin\Debug\net7.0\NoteBook.Entities.pdb
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.dll
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\refint\NoteBook.Entities.dll
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\NoteBook.Entities.pdb
+C:\Dot.NET\EP1\NoteBook.Entities\obj\Debug\net7.0\ref\NoteBook.Entities.dll

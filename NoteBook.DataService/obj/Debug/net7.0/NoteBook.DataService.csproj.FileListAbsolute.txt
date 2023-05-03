@@ -1,0 +1,17 @@
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.DataService.deps.json
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.DataService.runtimeconfig.json
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.DataService.dll
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.DataService.pdb
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.csproj.AssemblyReference.cache
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.AssemblyInfoInputs.cache
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.AssemblyInfo.cs
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.csproj.CoreCompileInputs.cache
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.dll
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\refint\NoteBook.DataService.dll
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.pdb
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.genruntimeconfig.cache
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\ref\NoteBook.DataService.dll
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.Entities.dll
+C:\Dot.NET\EP1\NoteBook.DataService\bin\Debug\net7.0\NoteBook.Entities.pdb
+C:\Dot.NET\EP1\NoteBook.DataService\obj\Debug\net7.0\NoteBook.DataService.csproj.CopyComplete
